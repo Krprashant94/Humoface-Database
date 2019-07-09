@@ -6,3 +6,6 @@ haarcascades/
 Humoface Database.spec
 images/logo.psd
 py_compile.bat
+__pycache__/
+build/
+dist/
